@@ -5,8 +5,8 @@ s.bind(("", 50003))
 s.listen(5)
 print "TCP server penjawab otomatis sudah siap"
 data = ' '
-kamus = {'nama': 'Baihaqi Fatah Muhammad',
-         'NIM': 'L200190169',
+kamus = {'nama': 'Dimas Riswanda Pradana Putra',
+         'NIM': 'L200194011',
          'alamat': 'Maaf, perintah tidak dimengerti',
          'keluar': 'siap!!'}
 while data.lower() != 'q':
